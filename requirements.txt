@@ -1,0 +1,6 @@
+openai-whisper
+torch
+transformers
+sentencepiece
+gtts
+pydub
